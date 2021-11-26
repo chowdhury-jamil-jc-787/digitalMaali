@@ -1,0 +1,8 @@
+.hide{
+    z-index: 100;
+    margin-top: -13px;
+    background: white;
+    position: absolute;
+    width: 100%;
+    text-align: right;
+}
